@@ -1,0 +1,6 @@
+@AssetsAPI_CarolinaRodriguezJ_HostAddress = http://localhost:5023
+
+GET {{AssetsAPI_CarolinaRodriguezJ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
